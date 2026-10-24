@@ -3,11 +3,7 @@
 **Observation, systems, games.**  
 I do not explain everything. I show enough for you to see the rest yourself.
 
-Owner and developer of **[Panopticon Trail](https://github.com/werton-core/panopticon)**, a private Garry's Mod server and sandbox built around atmosphere, systems, and player-driven stories.
-
-## Contributors
-
-- [@werton-core](https://github.com/werton-core) — owner and developer
+Owner and developer of **[Panopticon Trail](https://discord.gg/V69a6wYdVR)**, a private Garry's Mod server and sandbox built around atmosphere, systems, and player-driven stories.
 
 ## Find me
 
@@ -27,11 +23,7 @@ I build quietly, test obsessively, and leave the interesting part for you to dis
 **Наблюдение, системы, игры.**  
 Я не объясняю всё. Я показываю достаточно, чтобы остальное ты увидел сам.
 
-Владелец и разработчик **[Panopticon Trail](https://github.com/werton-core/panopticon)** — приватного сервера и песочницы Garry's Mod, построенной вокруг атмосферы, систем и историй, которые создают сами игроки.
-
-### Контрибьюторы
-
-- [@werton-core](https://github.com/werton-core) — владелец и разработчик
+Владелец и разработчик **[Panopticon Trail](https://discord.gg/V69a6wYdVR)** — приватного сервера и песочницы Garry's Mod, построенной вокруг атмосферы, систем и историй, которые создают сами игроки.
 
 ### Связь
 

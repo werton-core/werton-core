@@ -9,7 +9,7 @@ Owner and developer of **[Panopticon Trail](https://discord.gg/V69a6wYdVR)**, a 
 
 [![TikTok](https://img.shields.io/badge/TikTok-%40werton__core-111111?logo=tiktok&logoColor=white)](https://www.tiktok.com/@werton_core)
 [![Telegram](https://img.shields.io/badge/Telegram-%40HET__HOMEP-229ED9?logo=telegram&logoColor=white)](https://t.me/HET_HOMEP)
-[![Discord](https://img.shields.io/badge/Discord-%40pro__cadillac-5865F2?logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-%40pro__cadillac-5865F2?logo=discord&logoColor=white)](https://discord.gg/V69a6wYdVR)
 
 I build quietly, test obsessively, and leave the interesting part for you to discover.
 
@@ -29,7 +29,7 @@ I build quietly, test obsessively, and leave the interesting part for you to dis
 
 [![TikTok](https://img.shields.io/badge/TikTok-%40werton__core-111111?logo=tiktok&logoColor=white)](https://www.tiktok.com/@werton_core)
 [![Telegram](https://img.shields.io/badge/Telegram-%40HET__HOMEP-229ED9?logo=telegram&logoColor=white)](https://t.me/HET_HOMEP)
-[![Discord](https://img.shields.io/badge/Discord-%40pro__cadillac-5865F2?logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-%40pro__cadillac-5865F2?logo=discord&logoColor=white)](https://discord.gg/V69a6wYdVR)
 
 Создаю спокойно, проверяю досконально, а самое интересное оставляю тебе.
 
